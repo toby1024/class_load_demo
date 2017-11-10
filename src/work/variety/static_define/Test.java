@@ -4,7 +4,7 @@ public class Test {
 
     static {
         System.out.println("this is a test");
-        a = 456;
+//        a = 456;
 //        System.out.println(a);
     }
 
